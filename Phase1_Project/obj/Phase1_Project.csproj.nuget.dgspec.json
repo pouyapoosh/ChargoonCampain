@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shakeri\\Desktop\\پروزه های فاز اول\\ریحانه خلیلی\\Phase1_Project\\Phase1_Project\\Phase1_Project.csproj": {}
+    "C:\\GitRepo\\ChargoonCampain\\Phase1_Project\\Phase1_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shakeri\\Desktop\\پروزه های فاز اول\\ریحانه خلیلی\\Phase1_Project\\Phase1_Project\\Phase1_Project.csproj": {
+    "C:\\GitRepo\\ChargoonCampain\\Phase1_Project\\Phase1_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shakeri\\Desktop\\پروزه های فاز اول\\ریحانه خلیلی\\Phase1_Project\\Phase1_Project\\Phase1_Project.csproj",
+        "projectUniqueName": "C:\\GitRepo\\ChargoonCampain\\Phase1_Project\\Phase1_Project.csproj",
         "projectName": "Phase1_Project",
-        "projectPath": "C:\\Users\\shakeri\\Desktop\\پروزه های فاز اول\\ریحانه خلیلی\\Phase1_Project\\Phase1_Project\\Phase1_Project.csproj",
+        "projectPath": "C:\\GitRepo\\ChargoonCampain\\Phase1_Project\\Phase1_Project.csproj",
         "packagesPath": "C:\\Users\\shakeri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shakeri\\Desktop\\پروزه های فاز اول\\ریحانه خلیلی\\Phase1_Project\\Phase1_Project\\obj\\",
+        "outputPath": "C:\\GitRepo\\ChargoonCampain\\Phase1_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shakeri\\AppData\\Roaming\\NuGet\\NuGet.Config",
