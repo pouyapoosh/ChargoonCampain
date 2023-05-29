@@ -1,0 +1,15 @@
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\obj\Debug\net6.0\Phase1_Project.csproj.AssemblyReference.cache
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\obj\Debug\net6.0\Phase1_Project.GeneratedMSBuildEditorConfig.editorconfig
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\obj\Debug\net6.0\Phase1_Project.AssemblyInfoInputs.cache
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\obj\Debug\net6.0\Phase1_Project.AssemblyInfo.cs
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\obj\Debug\net6.0\Phase1_Project.csproj.CoreCompileInputs.cache
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\bin\Debug\net6.0\Phase1_Project.exe
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\bin\Debug\net6.0\Phase1_Project.deps.json
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\bin\Debug\net6.0\Phase1_Project.runtimeconfig.json
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\bin\Debug\net6.0\Phase1_Project.dll
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\bin\Debug\net6.0\Phase1_Project.pdb
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\obj\Debug\net6.0\Phase1_Project.dll
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\obj\Debug\net6.0\refint\Phase1_Project.dll
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\obj\Debug\net6.0\Phase1_Project.pdb
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\obj\Debug\net6.0\Phase1_Project.genruntimeconfig.cache
+G:\Chargoon\Projects\Phase1_Project\Phase1_Project\obj\Debug\net6.0\ref\Phase1_Project.dll
