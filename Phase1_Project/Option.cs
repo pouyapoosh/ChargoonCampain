@@ -97,8 +97,7 @@ namespace Phase1_Project
 
                 case (int)Event.Fire:
                     new FireStation().ReceiveServices();
-                    Logger.Write("FireStation", People[0])
-            ;
+                    Logger.Write("FireStation", People[0]);
                     break;
 
                 case (int)Event.Dyspnea:
